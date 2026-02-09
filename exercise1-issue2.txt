@@ -1,0 +1,7 @@
+Steps learned for submiting an issue:
+1. Navigate to issues tab
+2. Click new issue
+3. Add a title
+4. Add a description
+5. Add labels/milestones
+6. Submit
